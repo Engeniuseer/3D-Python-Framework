@@ -3,6 +3,6 @@ This project shows in a simple way how 3D mathematics work.
 
 In future versions:
 
--Render Textures
+  -Render Textures
 
--GPU programming to speed up computations
+  -GPU programming to speed up computations
