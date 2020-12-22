@@ -1,5 +1,5 @@
 # 3D-Python-Framework
-This project shows in a simple way how 3D mathematics work.
+This project is created to understand 3D mathematics.
   
 OBJ References:
   
