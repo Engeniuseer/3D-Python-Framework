@@ -1,9 +1,5 @@
 # 3D-Python-Framework
 This project is created to understand 3D mathematics.
-
-To run the code:
-
-* python https://github.com/Engeniuseer/3D-Python-Framework/blob/master/main.py
   
 OBJ References:
   
